@@ -1,0 +1,14 @@
+.ContenedorTexto {
+    background-color: rgb(208, 202, 209);
+}
+
+ul :hover {
+    font-weight: bold;
+}
+
+.boton {
+    background-color: rgb(184, 145, 223);
+    color: black;
+    font-weight: lighter;
+    
+}
